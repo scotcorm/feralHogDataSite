@@ -70,3 +70,27 @@
 #discussionTitle {
   margin-top: 2rem;
 }
+
+/* table */
+table {
+  width: 100%;
+  border: 1px solid;
+  border-bottom: 2px solid black;
+}
+
+th,
+td {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
